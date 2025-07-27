@@ -1,0 +1,31 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/App_old.jsx": true,
+    "**/App_new.jsx": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/App_old.jsx": true,
+    "**/App_new.jsx": true
+  },
+  "typescript.suggest.autoImports": false,
+  "javascript.suggest.autoImports": false,
+  "emmet.showSuggestionsAsSnippets": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.parameterHints.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "extensions.autoUpdate": false,
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.git/**": true,
+    "**/images/**": true,
+    "**/assets/**": true
+  }
+}
